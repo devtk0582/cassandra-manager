@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CassandraManager/.vs/CassandraManager/v15
+/CassandraManager/CassandraManager/bin/Debug/netcoreapp2.2
+/CassandraManager/CassandraManager/obj
+/CassandraManager/CassandraManager/CassandraManager.Web.csproj.user
+/CassandraManager/CassandraManager.App/bin/Debug
+/CassandraManager/CassandraManager.App/obj/Debug
+/CassandraManager/CassandraManager.Models/bin/Debug/netcoreapp2.2
+/CassandraManager/CassandraManager.Models/obj
+/CassandraManager/CassandraManager.Services/bin/Debug/netcoreapp2.2
+/CassandraManager/CassandraManager.Services/obj
