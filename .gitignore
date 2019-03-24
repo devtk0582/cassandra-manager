@@ -12,3 +12,7 @@
 /CassandraManager/CassandraManager.Models/obj
 /CassandraManager/CassandraManager.Services/bin/Debug/netcoreapp2.2
 /CassandraManager/CassandraManager.Services/obj
+/CassandraManager/.vs/CassandraManager/DesignTimeBuild
+/CassandraManager/CassandraManager.App/obj/Release
+/CassandraManager/CassandraManager.Models/bin/Debug/netstandard2.0
+/CassandraManager/CassandraManager.Services/bin/Debug/netstandard2.0
